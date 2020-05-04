@@ -1,0 +1,44 @@
+/** @format */
+
+body {
+	padding: 100px;
+	background-color: blueviolet;
+}
+.header {
+	background-color: white;
+	padding: 10px;
+	margin: 30px;
+}
+.link {
+	color: black;
+	font-size: 24px;
+    border: 0.5 solid red;
+    text-decoration: none;
+}
+.paragraph {
+	background-color: royalblue;
+	color: white;
+}
+
+.cover {
+	width: 600px;
+	height: auto;
+}
+
+.about-content{
+    background-color: salmon;
+    text-align: center;
+}
+.back-btn{
+    padding: 10px;
+    font-size:25px;
+    color: springgreen;
+    text-decoration: none;
+}
+
+.contact{
+    background-color: teal;
+    text-align: center;
+    
+
+}
